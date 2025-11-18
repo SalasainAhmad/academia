@@ -812,9 +812,9 @@ strictly follow the format of example output:
     }
 
     $allResults = [];
-    $api2Url = 'https://academai.onrender.com/check_plagiarism';
-    $benchmarkUrl = 'https://academai.onrender.com/benchmark';
-    $compareUrl = 'https://academai.onrender.com/compare';
+    $api2Url = 'https://academia-unlk.onrender.com/check_plagiarism';
+    $benchmarkUrl = 'https://academia-unlk.onrender.com/benchmark';
+    $compareUrl = 'https://academia-unlk.onrender.com/compare';
 
     $googleApiKey = null;
     $googleCx = null;
